@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T12:29:43.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5LqZsqqH5whpAibJqJkZ" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T12:14:33.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wOg5wlJu1k6VyS0KGz3h" version="21.7.4" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="548" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,10 @@
           <mxGeometry x="545" y="240" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="4XpBG0FNLa2igSP7bPGP-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4XpBG0FNLa2igSP7bPGP-1">
-          <mxGeometry x="45" y="80" width="10" height="230" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4XpBG0FNLa2igSP7bPGP-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4XpBG0FNLa2igSP7bPGP-1">
+          <mxGeometry x="45" y="280" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4XpBG0FNLa2igSP7bPGP-3" value="응답 목적으로 보내는 패킷&lt;br&gt;발신지 : 11.22.33.44.1000&lt;br&gt;목적지 : 55.66.77.88:2010" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry x="0.0017" relative="1" as="geometry">
